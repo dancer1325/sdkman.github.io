@@ -1,7 +1,11 @@
-<p align="center">
-  <a href="https://sdkman.io">SDKMAN!</a> Website built using <a href="https://docusaurus.io/">Docusaurus</a>, a modern static website generator.
-</p>
-<br />
+SDKMAN! (Software Development Kit Manager)
+
+* [website](https://sdkman.io)
+* built -- via -- [Docusaurus](https://docusaurus.io/)
+
+### documentation
+* [index](src/components/sections/home/Hero/index.md)
+* [docs](docs)
 
 ### Installation
 
