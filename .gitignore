@@ -27,3 +27,11 @@ yarn-error.log*
 /docs/sdks.mdx
 /src/data/jdks-versions.ts
 /src/data/sdks.ts
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/sdkman.github.io.iml
+/.idea/vcs.xml
